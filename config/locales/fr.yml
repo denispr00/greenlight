@@ -254,7 +254,8 @@ fr:
       help: "Si vous pensez que c'est une erreur, veuillez contacter votre administrateur système."
   expired_reset_token: Le lien de réinitialisation du mot de passe a expiré !
   features:
-    title: "Fonctionnalités "
+    title: "Prêt à commencer ? "
+    title2: "CONTACTEZ-NOUS"
     rooms: "Salons Personnalisés "
     recordings: Gestion des enregistrements
     designs: Designs personnalisés
@@ -262,7 +263,7 @@ fr:
   footer:
     legal: Légal
     privpolicy: Politique de confidentialité
-    powered_by: "Alimenté par %{href}."
+    powered_by: Alpha Corp DESIGN - POC
   forgot_password:
     subtitle: Mot de passe oublié
     email: Email
@@ -292,9 +293,9 @@ fr:
     search:
       start: Commencer la recherche...
   landing:
-    about: "%{href} est une interface simple pour votre serveur open-source de Web conférence BigBlueButton. Vous pouvez créer vos propres salles pour héberger des sessions ou rejoindre d'autres utilisateurs via un lien court et pratique. "
-    welcome: Bienvenue sur BigBlueButton.
-    video: Regardez notre tutoriel sur l'utilisation de Greenlight
+    about: "by Alpha Corp DESIGN"
+    welcome: Bienvenue au POC de BigBlueButton.
+    video: Visitez notre site web
     upgrade: Montrez-moi comment passer à la version 2.0 !
     version: "Nous avons publié une nouvelle version de Greenlight, mais votre base de données n'est pas compatible."
   language_default: Par défaut (langue du navigateur)
